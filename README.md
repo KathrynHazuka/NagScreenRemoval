@@ -1,2 +1,2 @@
 # NagScreenRemoval
-nag screen removal extension for Opera, Firefox, Chrome.
+Nag screen removal extension for Opera, Firefox, and Chrome.
