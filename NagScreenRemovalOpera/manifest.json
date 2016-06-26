@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	
+	"name": "Nag Screen Removal",
+	"description": "This extension removes the login/signin nag screens on facebook and pintrest",
+	"version": "0.1",
+	
+	"browser_action": {
+	"default_icon": "icon.png",
+	"default_popup": "popup.html"
+	},
+	  
+	"content_scripts": [
+		{
+			"matches": ["https://www.pinterest.com/*", "https://www.facebook.com/*"],
+			"css": ["nagremoval.css"]
+		}
+	]
+}
