@@ -10,4 +10,4 @@ Nag screen removal extension for Opera, Firefox, and Chrome.
 	- .Module .Nags (on indivisual posts) (can not scroll, need to change class of containing div from noscroll to none)
 	
 - Tumblr (Can't scroll further)
-	-  class "register_prompt windowed-slide windowed" (impares use of site, deemed not resonable to remove)
+	-  class "register_prompt windowed-slide windowed" (no scrolling impares use of site, deemed not resonable to remove)
