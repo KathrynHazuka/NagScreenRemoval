@@ -5,7 +5,7 @@ Nag screen removal extension for Opera, Firefox, and Chrome.
 - Facebook (Can scroll continuousuly)
 	- .pagelet_growth_expanding_cta
 	- .pop_dialog
-- Pintrest (Can scroll continuously)
+- Pintrest (Can scroll continuously unless on indivisual posts)
 	- .ModalManager .Module (on pages)
 	- .Module .Nags (on indivisual posts) (can not scroll, need to change class of containing div from noscroll to none)
 	
